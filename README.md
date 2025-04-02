@@ -33,7 +33,7 @@ La base de datos ha sido diseñada para capturar las interacciones dentro del si
 - `Valoracion`: Permite registrar comentarios y puntuaciones de sesiones pasadas.
 - `Miembro_Habilidad`: Relaciona a los miembros con sus habilidades declaradas.
 
-Un diagrama entidad-relación detallado se encuentra en `docs/ERD.png`. También se proporciona el modelo en formato DBML en [`docs/skill-exchange.dbml` ](https://dbdiagram.io/d/67ebe8e54f7afba184f2de20) para su visualización y modificación en [dbdiagram.io](https://dbdiagram.io).
+Un modelo entidad-relación detallado se encuentra en `docs/MER.png`, junto con un modelo relacional en `docs/Modelo_Relacional.png` . También se proporciona el modelo en formato DBML en [`docs/skill-exchange.dbml` ](https://dbdiagram.io/d/67ebe8e54f7afba184f2de20) para su visualización y modificación en [dbdiagram.io](https://dbdiagram.io).
 
 ## Consultas SQL y Análisis de Datos
 
